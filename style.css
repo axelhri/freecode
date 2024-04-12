@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(rgba(112, 141, 235, 0.5), rgba(112, 141, 235, 0.5)), url('77eba96f-451f-41a9-a880-2ccb965e1926.png');
+    margin: 0;
+    text-align: center;
+    font-family: Arial;
+}
+h1 {
+    color: rgb(252, 244, 244);
+    font-size: 25px;
+}
+h2 {
+    color: rgb(216, 203, 203);
+    font-size: 15px;
+}
+form {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(30, 31, 32, 0.7));
+    margin-left: 370px;
+    margin-right: 370px;
+    border-radius: 10px;
+}
+p {
+    color: rgb(252, 244, 244);
+    text-align: justify;
+    margin-left: 50px;
+}
+.ag {
+    width: 400px;
+}
+.gr {
+    height: 150px;
+    width: 390px;
+}
+.df {
+    text-align: left;
+    margin-left: 50px;
+    color: rgb(252, 244, 244);
+}
+.mo {
+    text-align: left;
+    margin-left: 50px;
+    color: rgb(252, 244, 244);  
+}
+button {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 400px;
+}
